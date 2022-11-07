@@ -2,6 +2,8 @@
 
 use Illuminate\Database\Seeder;
 
+use App\models\Train;
+
 class TrainsTableSeeder extends Seeder
 {
     /**
